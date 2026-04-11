@@ -10,7 +10,7 @@ HopeConnect is a high-performance Android application designed to centralize and
 ## 🚀 Experience the App
 The source code is currently private to protect proprietary AI logic and security configurations. However, the application is available for testing and review:
 
-[**📥 Download HopeConnect APK (v1.0.0)**](https://github.com/Ritesh-Shinde45/HopeConnect/releases/download/v1.0.0/HopeConnect.apk)
+[**📥 Download HopeConnect APK (v1.0.0)**](https://github.com/Ritesh-Shinde45/HopeConnect-App/releases/download/v1.0.0/HopeConnect.apk)
 
 *Note: Optimized for Android devices. This build serves as a Final Year Diploma Project showcase.*
 
