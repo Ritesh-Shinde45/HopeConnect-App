@@ -64,6 +64,9 @@ To prevent spam, a full admin dashboard was built to review and verify entries b
 
 I am passionate about building secure and reliable technology solutions, with a strong interest in cloud security and modern infrastructure.
 
+**Kishan Alladwar**
+*IT Diploma Student | Data Science Enthusiast*
+
 Special thanks to **Kishan Alladwar** for his support throughout this journey. 🤝
 
 
