@@ -60,12 +60,12 @@ To prevent spam, a full admin dashboard was built to review and verify entries b
 ## 👨‍💻 Developer
 
 **Ritesh Shinde**
-*IT Diploma Student | Cloud Security Enthusiast*
+*IT Diploma Student | Cloud Security Learner*
 
 I am passionate about building secure and reliable technology solutions, with a strong interest in cloud security and modern infrastructure.
 
 **Kishan Alladwar**
-*IT Diploma Student | Data Science Enthusiast*
+*IT Diploma Student | Data Science Learner*
 
 Special thanks to **Kishan Alladwar** for his support throughout this journey. 🤝
 
