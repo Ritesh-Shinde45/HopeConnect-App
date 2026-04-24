@@ -1,4 +1,4 @@
-# HopeConnect 🛡️ 🇮🇳
+# HopeConnect: Finding Missing Peoples 🛡️ 🇮🇳
 **AI-Powered Social Impact Platform for Locating Missing Persons**
 
 > "Every year, over 100,000+ people go missing in India. HopeConnect is built to ensure that no family has to wait in silence during those critical first 72 hours."
