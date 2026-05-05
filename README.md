@@ -102,4 +102,4 @@ Special thanks to **Kishan Alladwar** for his support throughout this journey. ð
 [![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ritesh-Shinde45)
 
 ---
-*This repository contains documentation and releases only. The core source code is hosted privately.*
+*This repository contains documentation and releases only. The core source code is hosted in another repo.*
