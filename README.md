@@ -10,27 +10,38 @@ HopeConnect is a high-performance Android application designed to centralize and
 ## 🚀 Experience the App
 The source code is currently private to protect proprietary AI logic and security configurations. However, the application is available for testing and review:
 
-[**📥 Download HopeConnect APK (v1.0.0)**](https://github.com/Ritesh-Shinde45/HopeConnect-App/releases/download/v1.0.0/HopeConnect.apk)
+[**📥 Download HopeConnect APK (v1.0.0)**](https://github.com/Ritesh-Shinde45/HopeConnect-App/releases/tag/v1.0.1)
 
-*Note: Optimized for Android devices. This build serves as a Final Year Diploma Project showcase.*
+[**📥 Source Code**](https://github.com/Ritesh-Shinde45/HopeConnect.git)
+
+*Note: Optimized for Android devices.*
 
 ---
 
 ## ✨ Key Features & Innovation
 
-### 🤖 **AI-Powered Face Matching**
-HopeConnect features integrated **MobileFaceNet via TensorFlow Lite**, moving beyond simple text searches.
-* **The Tech:** Performs high-speed on-device facial embedding comparisons.
-* **The Result:** When a sighting is reported, the AI automatically scans the database to surface potential matches, significantly reducing search time.
-
-### 📋 **Smart Reporting & GPS Integration**
-Users can file detailed reports with high-resolution photos, real-time GPS coordinates, and biometric data (age, gender, last seen).
-
-### 💬 **Witness Collaboration Hub**
-A secure, built-in chat system allows volunteers to share leads with families directly—ensuring privacy by keeping personal phone numbers hidden.
-
-### 🛡️ **Verified Moderation (Admin Panel)**
-To prevent spam, a full admin dashboard was built to review and verify entries before they go live, maintaining the platform's integrity.
+### 🤖 AI-Powered Face Matching
+- Uses **MobileFaceNet via TensorFlow Lite** for on-device facial recognition
+- Automatically scans the database to surface potential matches
+- No internet required for face comparison — fully on-device
+ 
+### 📋 Smart Reporting & GPS Integration
+- File detailed reports with photos, real-time GPS coordinates, age, gender, last seen location
+- Reports go through admin verification before going live
+ 
+### 💬 Witness Collaboration Hub
+- Secure built-in chat for volunteers and families
+- Personal phone numbers stay hidden for privacy
+ 
+### 🛡️ Admin Moderation Panel
+- Full admin dashboard to review and verify reports before publishing
+- Prevents spam and false entries from polluting the database
+ 
+### 🔔 Smart Notifications
+- Case match alerts, new report updates, admin announcements
+ 
+### 🏆 Achievement System
+- Volunteers earn recognition for verified leads and community contributions
 
 ---
 
@@ -49,12 +60,29 @@ To prevent spam, a full admin dashboard was built to review and verify entries b
 * **Architecture:** Modular Clean Architecture
 
 ---
+ 
+## 🚀 Roadmap
 
-## 🌍 Roadmap
-* **Gamification:** Rewarding volunteers with badges for verified leads.
-* **Reward System:** Integrated platform for families to offer rewards for verified information.
-* **Multilingual Support:** Adding Marathi and Hindi for pan-India reach.
+```text
+Phase 1 — Cloud Migration (Appwrite → AWS)
+│
+├── Migrate database → AWS DynamoDB
+├── Move file storage → AWS S3
+└── Implement authentication → AWS Cognito
 
+Phase 2 — Cloud-Based AI Processing
+│
+├── Shift face recognition → AWS Lambda + Rekognition
+├── Build REST APIs → AWS API Gateway
+└── Deploy backend services → AWS EC2 / ECS
+
+Phase 3 — Scale & Expansion
+│
+├── Web dashboard for authorities → AWS Amplify
+├── Real-time alerts → AWS SNS
+├── Multilingual support (Marathi, Hindi)
+└── NGO & system integration
+```
 ---
 
 ## 👨‍💻 Developer
