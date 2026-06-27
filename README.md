@@ -63,6 +63,9 @@ The source code is currently private to protect proprietary AI logic and securit
  
 ## 🚀 Roadmap
 
+<details>
+<summary>Click to expand full structure</summary>
+ 
 ```text
 Phase 1 — Cloud Migration (Appwrite → AWS)
 │
@@ -83,6 +86,9 @@ Phase 3 — Scale & Expansion
 ├── Multilingual support (Marathi, Hindi)
 └── NGO & system integration
 ```
+
+</details>
+
 ---
 
 ## 👨‍💻 Developer
